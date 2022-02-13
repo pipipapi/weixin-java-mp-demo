@@ -9,7 +9,7 @@
 
 
     #添加jar包，存放路径以及重命名
-    ADD  demo.jar  /opt/demo/demo.jar
+    ADD  demo.jar  /opt/demo/weixin-java-mp-demo-1.0.0-SNAPSHOT.jar
 
 
     #添加进入docker容器后的目录
